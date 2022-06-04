@@ -5,7 +5,9 @@ a:lin
 body {
   background: #fff;
 }
-
+.text-center{
+  text-align: center; 
+}
 div.lur{
 text-align: center;
 color: crimson;
